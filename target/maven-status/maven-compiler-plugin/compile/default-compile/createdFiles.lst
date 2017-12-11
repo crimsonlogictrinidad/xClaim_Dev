@@ -1,0 +1,6 @@
+com\journaldev\springhibernate\dao\PersonDAOImpl.class
+com\journaldev\springhibernate\dao\PersonDAO.class
+com\journaldev\springhibernate\service\PersonService.class
+com\journaldev\springhibernate\model\Person.class
+com\journaldev\springhibernate\service\Version.class
+com\journaldev\springhibernate\service\PersonServiceImpl.class
